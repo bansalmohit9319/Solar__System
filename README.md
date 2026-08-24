@@ -91,21 +91,6 @@ The project recreates the Solar System with animated planetary revolutions, self
 
 ---
 
-## How to Run
-
-### Install VPython
-
-```bash
-pip install vpython
-```
-
-### Run Simulation
-
-```bash
-python solar_system.py
-```
-
----
 
 ## Key Highlights
 
@@ -117,8 +102,3 @@ python solar_system.py
 * Dynamic Camera Movement
 * Interactive Space Environment
 
----
-
-## Author
-
-Mohit Bansal
